@@ -1,4 +1,4 @@
-# AboutMe
+# Clare Marx
 Education
 Lehigh University, Bethlehem, PA						   Expected May 2023
 
